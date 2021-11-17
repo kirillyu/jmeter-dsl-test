@@ -1,0 +1,1 @@
+{    \"productIds\": [   ${PRODUCT_PAYLOAD}    ],    \"showcaseId\": \"${SHOWCASE_ID}\" }

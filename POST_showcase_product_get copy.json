@@ -1,0 +1,7 @@
+{
+  "coordinates": {
+    "latitude": ${cur_lat},
+    "longitude": ${cur_lon}
+  },
+  "source": "SAMOKAT"
+}
